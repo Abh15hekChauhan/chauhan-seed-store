@@ -1,0 +1,13 @@
+name: 'Block Class Select'
+type: module
+description: 'Adds a select element to block forms with configurable options.'
+package: User Interface
+configure: block_class_select.admin
+core_version_requirement: ^8 || ^9
+dependencies:
+  - block_class:block_class
+
+# Information added by Drupal.org packaging script on 2022-04-25
+version: '8.x-2.1'
+project: 'block_class_select'
+datestamp: 1650928061

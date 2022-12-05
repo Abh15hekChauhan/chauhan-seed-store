@@ -1,0 +1,26 @@
+{
+    "name": "drupal/block_class_select",
+    "description": "Adds a select element to block forms with configurable options.",
+    "type": "drupal-module",
+    "keywords": [
+        "Drupal"
+    ],
+    "homepage": "https://www.drupal.org/project/block_class_select",
+    "authors": [
+        {
+            "name": "George Anderson (geoanders)",
+            "homepage": "https://www.drupal.org/u/geoanders",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/block_class_select",
+        "source": "https://git.drupalcode.org/project/block_class_select"
+    },
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/core": "^8 || ^9",
+        "drupal/block_class": "^1.3"
+    }
+}

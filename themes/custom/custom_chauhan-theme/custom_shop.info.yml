@@ -1,0 +1,21 @@
+name: custom shop
+description: A theme based on Radix.
+core_version_requirement: ^7 || ^8 | ^9
+type: theme
+base theme: radix
+
+regions:
+  header: Header
+  slider: Slider
+  highlighted: Highlighted
+  content: Content
+  content_first: Content First
+  content_second: Content Second
+  content_twitter: Content Twitter
+  content_third: Content Third
+  content_fourth: Content Fourth
+  aboutus_content: About Us
+  footer_first: Footer First
+  footer_second: Footer Second
+  
+

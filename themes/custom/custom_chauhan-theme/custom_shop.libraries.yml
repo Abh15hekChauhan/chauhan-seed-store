@@ -1,0 +1,13 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/custom_shop.style.css: {}
+
+  js:
+    assets/js/custom_shop.script.js: {}
+    src/js/custom.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/jquery.once

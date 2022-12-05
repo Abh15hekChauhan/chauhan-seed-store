@@ -1,0 +1,20 @@
+name: Custom Store Theme
+description: Not based on any theme
+core_version_requirement: ^8 || ^9
+type: theme
+base theme: false
+libraries:
+  - custom_store_theme/global-styling
+
+regions:
+  header: Header
+  slider: Slider
+  highlighted: Highlighted
+  content: Content
+  content_first: Content First
+  content_second: Content Second
+  content_third: Content Third
+  content_fourth: Content Fourth
+  footer: Footer
+  
+
